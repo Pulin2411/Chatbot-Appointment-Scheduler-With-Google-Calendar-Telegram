@@ -46,11 +46,6 @@ The AI Agent follows this defined role:
 > 🎯 **Role of the Assistant:**  
 > You are an AI assistant helping Dr. Pulin manage patient consultations.
 
-## 🖼️ Workflow Design (Visual)
-Below is the visual workflow structure from n8n:
-
-![Workflow Screenshot](./c9bde48d-97c0-4d8a-bff7-50eb9a89f856.png)
-
 ---
 
 ## ⚙️ Setup Instructions
