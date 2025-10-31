@@ -62,7 +62,7 @@ It allows users to **book, confirm, and track appointments** directly through Te
 The AI Agent follows this defined role:
 
 > 🎯 **Role of the Assistant:**  
-> You are an AI assistant helping Dr. Pulin manage patient consultations....................................
+> You are an AI assistant helping Dr. Pulin manage patient consultations(for complete Prompt contact Author)
 
 ---
 
