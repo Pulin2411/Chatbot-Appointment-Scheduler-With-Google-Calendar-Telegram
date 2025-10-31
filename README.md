@@ -98,6 +98,9 @@ Google Sheets API (Record keeping)
 
 Telegram Bot API (User interaction)
 
+Below is the link for your quick reference
+https://t.me/Appointment24dentalbot
+
 👨‍💻 Author
 
 Developed by: Pulin
